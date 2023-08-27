@@ -1,0 +1,72 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "author_id": "johnsmith",
+      "text": "What are the pros of object-oriented programming?<br><br>Please, explain as if I'm 5."
+    },
+    {
+      "id": 2,
+      "author_id": "carlanotarobot",
+      "text": "Why use a debugger when you can fill your code with hundreds of <code>print()</code> statements?"
+    },
+    {
+      "id": 4,
+      "author_id": "ameliawarner",
+      "text": "Describe your relationship with JavaScript with one word."
+    },
+    {
+      "id": 5,
+      "author_id": "kayfatishe",
+      "text": "asdasd"
+    },
+    {
+      "id": 6,
+      "author_id": "kayfatishe",
+      "text": "test message"
+    },
+    {
+      "id": 7,
+      "author_id": "kayfatishe",
+      "text": "another test message<br>here!"
+    },
+    {
+      "id": 8,
+      "author_id": "kayfatishe",
+      "text": "some message"
+    },
+    {
+      "id": 9,
+      "author_id": "kayfatishe",
+      "text": "some message 2"
+    },
+    {
+      "author_id": "kayfatishe",
+      "text": "another one test message",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "id": "johnsmith",
+      "name": "John Smith",
+      "email": "johnsmith@gmail.com"
+    },
+    {
+      "id": "carlanotarobot",
+      "name": "Carla Notarobot",
+      "email": "carlanotarobot@hotmail.com"
+    },
+    {
+      "id": "ameliawarner",
+      "name": "Amelia Warner",
+      "email": "ameliawarner@yahoo.com"
+    },
+    {
+      "id": "kayfatishe",
+      "email": "kayfat.mail@gmail.com",
+      "name": "Kayfat K'irsan",
+      "password": "123123123"
+    }
+  ]
+}

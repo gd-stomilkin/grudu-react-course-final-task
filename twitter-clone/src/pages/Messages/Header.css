@@ -1,0 +1,22 @@
+.Header {
+    width: 100vw;
+    height: 60px;
+    background: #555;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+.Header-title {
+    padding-left: 30px;
+}
+
+.Header-user {
+    padding-right: 30px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}

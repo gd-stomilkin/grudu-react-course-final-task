@@ -1,0 +1,10 @@
+.NewMessage,
+.NewMessage form {
+    display: flex;
+    flex-direction: column;
+}
+
+.NewMessage textarea {
+    height: 60px;
+    resize: none;
+}

@@ -1,0 +1,8 @@
+.FormInputError {
+    border-color: #ff8600;
+}
+
+.FormInputErrorLabel {
+    font-size: 12px;
+    color: #ff8600;
+}
